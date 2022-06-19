@@ -1,0 +1,25 @@
+{
+  "name": "challenge-dom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --runInBand --detectOpenHandles --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menjadi-react-developer/challenge-dom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menjadi-react-developer/challenge-dom/issues"
+  },
+  "homepage": "https://github.com/menjadi-react-developer/challenge-dom#readme",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "jsdom": "^19.0.0",
+    "@testing-library/dom": "^7.2.1"
+  }
+}
